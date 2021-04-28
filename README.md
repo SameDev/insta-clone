@@ -2,7 +2,7 @@
 
 * This is a **React Instagram Clone** all rights reserved to [instagram.com](https://instagram.com) and [facebook.com](https://facebook.com/) 
 
-> To use this app you need create a .js File, and name it as firebase.js in this file paste this:
+> To use this app you need create a .js File in "src/" folder, and name it as firebase.js in this file paste this:
 
 ```js
 import firebase from 'firebase';
